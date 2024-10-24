@@ -76,8 +76,8 @@
 
 #   Exam pratique
 
-from openpyxl import load_workbook, Workbook
-from matplotlib import pyplot as plt
+# from openpyxl import load_workbook, Workbook
+# from matplotlib import pyplot as plt
 
 # Etudiants = {'Ahmed': 10, 'Sidi': 20}
 # Etudiants['Mariem'] = 20
@@ -130,5 +130,5 @@ from matplotlib import pyplot as plt
 
 
 
-
+print("hello world")
 
